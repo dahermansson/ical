@@ -4,6 +4,7 @@ PRODID:github.ics
 BEGIN:VEVENT
 DTSTART:20160427T133000Z
 DTEND:20160427T170000Z
+UID:bfc2ad7a-6a6d-4b5a-8c8a-c89fb3023c62
 SUMMARY:Test
 LOCATION:Tetar platsen
 DESCRIPTION:aonte uano ehunato esnat oensuth aonetuh anoeti soet uhsinotehusinoh eunsithoesn uihsoent uhinsote uhinot ehuitnoh eunsihonseutihonsetuhisn otehuitn oheunstih osentu isonte uhinsoteh uinohte u
@@ -17,6 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20160428T133000Z
 DTEND:20160428T170000Z
+UID:bfc2ad7a-6a6d-4b5a-8c8a-c87fb3024c61
 SUMMARY:Test2
 LOCATION:En bättre plats
 DESCRIPTION:En inte så lång beskrivning
