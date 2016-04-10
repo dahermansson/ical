@@ -2,9 +2,9 @@
 2016-03-22 18:45;2,5;Repetition;Cozmoz;;$
 2016-04-05 18:45;2,5;Repetition;Cozmoz;;$
 2016-04-12 18:45;2,5;Repetition;Cozmoz;;$
-2016-04-17;;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Den här är editerad;$
+2016-04-17 11:30;4;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Den här är editerad;$
 2016-04-19 18:45;2,5;Repetition;Cozmoz;;$
-2016-04-29 18:45;2,5;Repetition;Cozmoz;;$
+2016-04-26 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-03 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-10 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-14;;Marschspelning: Dalkarlsmarschen;Stockholm;;$
