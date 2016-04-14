@@ -1,13 +1,25 @@
 2016-04-12 18:45;2,5;Repetition;Cozmoz;;$
-2016-04-17 11:30;4;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Den här är editerad;$
-2016-04-19 18:45;2,5;Repetition;Cozmoz;;$
+2016-04-17 11:30;4;Konsert: Lottornas kyrksöndag i Mora;Mora kyrka;Avresa 11:30 från Musikskolan. m/87
+Kungl. Livreg. Dragoners marsch
+My Fair Lady
+Italian Festival
+From Sea To Shining Sea
+Belle Of The Ball
+La Cage Aux Folles
+Bring Him Home
+Tico-Tico
+Italia
+Lottamarschen
+Kungl. Dalregementets marsch (Notgaffel);$
+2016-04-19 18:45;2,5;Repetition;Maserhallen;;$
+2016-04-24 13:00;17:00;Repetition;Maserhallen;;$
 2016-04-26 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-03 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-10 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-14;;Marschspelning: Dalkarlsmarschen;Stockholm;;$
 2016-05-17 18:45;2,5;Repetition;Cozmoz;;$
 2016-05-24 18:45;2,5;Repetition;Cozmoz;;$
-2016-05-28;2016-05-29;Marschspelning: Högvakt med vaktparad;Stockholm;;$
+2016-05-27;2016-05-29;Marschspelning: Högvakt med vaktparad;Stockholm;;$
 2016-05-31 18:45;2,5;Repetition;Cozmoz;;$
 2016-06-06;;Marschspelning: Nationaldagsfirande;Rommehed;;$
 2016-06-10 14:00;;Marschspelning?: Studentmarsch?;Falun?;;$
